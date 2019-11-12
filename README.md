@@ -1,7 +1,7 @@
 ## Nama Kelompok
-WIDEA AKBAR NURFATONI	(A3.1700047)
-TRI UTAMI		(A3.1700045)
-RIZKY FAUZI R		(A3.1700039)
+Dwita Anjelita	    (A3.1700016)
+Firda Chaerunissa		(A3.1700021)
+Rahayu Sri L    		(A3.1700035)
 
 ## Deskripsi Sistem
 SISTEM PENJUALAN PULSA
